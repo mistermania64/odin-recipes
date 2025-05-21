@@ -1,0 +1,1 @@
+This is the first project I am completing for The Odin Project. Upon successful completion, I will have demonstrated basic knowledge of HTML lists, images, links, and syntax.
